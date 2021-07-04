@@ -3,8 +3,9 @@ public class login extends javax.swing.JFrame {
 
     public login() {
         this.setContentPane(new javax.swing.JLabel(new javax.swing.ImageIcon("src/main/java/resources/splash-bg.jpg")));
-        this.setVisible(true);
         initComponents();
+        this.setVisible(true);
+        
     }
 
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
@@ -294,8 +295,8 @@ public class login extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
-        this.setVisible(false);
         new signup().setVisible(true);
+        this.dispose();
     }//GEN-LAST:event_jButton2ActionPerformed
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed

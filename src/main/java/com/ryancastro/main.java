@@ -5,10 +5,6 @@
  */
 package com.ryancastro;
 
-/**
- *
- * @author Schwyzer
- */
 public class main extends javax.swing.JFrame {
 
     /**
@@ -29,6 +25,7 @@ public class main extends javax.swing.JFrame {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
+        
         jPanel1 = new javax.swing.JPanel();
         jPanel2 = new javax.swing.JPanel();
         jButton2 = new javax.swing.JButton();

@@ -5,6 +5,10 @@
  */
 package com.ryancastro;
 
+/**
+ *
+ * @author Schwyzer
+ */
 public class main extends javax.swing.JFrame {
 
     /**

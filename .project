@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>elec_bill_sys</name>
+	<name>prototype_02</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -22,7 +22,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1625306230883</id>
+			<id>1625665275112</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
